@@ -6,9 +6,10 @@ __By:__ MRBBATES1
 
 __Description:__
 
-This is my Custom Emojis pack used to showcase how to add custom emojis.
+This is my Custom Emojis Behaviour and Resource pack used to showcase my how to video on how to add custom emojis into minecraft.
 
-This has an additional bonus of including a bonus beahviour pack that allows you to use the emojis in chat.
+If you are adding 'CustomEmojisBP' to your world you must enable the gametest toggle, otherwise this behaviour pack wont work.
 
 __Featured In:__
-nothing
+
+<i>nothing</i>
