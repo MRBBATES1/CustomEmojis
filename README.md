@@ -10,6 +10,8 @@ This is my Custom Emojis Behaviour and Resource pack used to showcase my how to 
 
 If you are adding 'CustomEmojisBP' to your world you must enable the gametest toggle, otherwise this behaviour pack wont work.
 
+Please note you use the behaviour pack at your own risk. This is iseing experimental mode and should be done on a copy of your world.
+
 __Featured In:__
 
 <i>nothing</i>
