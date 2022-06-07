@@ -4,8 +4,8 @@
         "description": "Custom Emojis by MRBBATES1",
         "name": "Custom Emojis by MRBBATES1",
         "uuid": "358ddf82-b9d3-4482-a796-1c0921daed7a",
-        "version": [0, 0, 1],
-        "min_engine_version": [ 1, 17, 0 ]
+        "version": [0, 0, 2],
+        "min_engine_version": [ 1, 19, 0 ]
     },
     "modules": [
         {
@@ -14,8 +14,9 @@
             "uuid": "9353653f-7f85-4fd5-a517-b5e14f0becce",
             "version": [0, 0, 1]
         },
-		{
-         	"type": "javascript",
+	{
+		"language": "javascript",
+         	"type": "script",
          	"uuid": "e11336e4-77d5-4b4f-ad9a-1b16abb72362",
          	"version": [1, 0, 0],
          	"entry": "scripts/emojis.js"
