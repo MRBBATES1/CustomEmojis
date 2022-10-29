@@ -1,4 +1,4 @@
-import { world } from 'mojang-minecraft';
+import { world } from "@minecraft/server";
 class Commands {
     static run(cmd, dimension = world.getDimension("overworld")) {
         return dimension.runCommand(cmd)
