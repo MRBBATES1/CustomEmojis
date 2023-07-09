@@ -4,7 +4,7 @@ class Commands {
         return dimension.runCommand(cmd)
     }
 }
-world.events.beforeChat.subscribe(data => {
+world.beforeEvents.chatSend.subscribe(data => {
 try {
     const emoji = { // Add list of emojis here
 	// Custom emojis
