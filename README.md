@@ -1,6 +1,6 @@
 # CustomEmojis
 
-__Version:__ 1.19.40+
+__Version:__ 1.20.1+
 
 __By:__ MRBBATES1
 
@@ -14,7 +14,7 @@ Please note you use this pack at your own risk. This is useing experimental mode
 __PLEASE NOTE__
 
 
-Due to changes in the gametest system the behaviour pack now has a minimum version of 1.19.40
+Due to changes in the gametest system the behaviour pack now has a minimum version of 1.20.1
 
 To enable this pack please ensure that 'Beta APIs' is toggled on under the experiments section within your worlds game settings.
 
